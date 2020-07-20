@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="error" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1ad0a170-873c-422b-9160-699d76d41db8" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/app/proguard-rules.pro" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="aa94c291" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/app">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="student" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="student" type="f1a62948:ProjectNode" />
+                <item name=":app" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="student" type="f1a62948:ProjectNode" />
+                <item name=":app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="student" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>loadDayListSuccess</find>
+      <find>ViewH</find>
+      <find>RecyclerView</find>
+      <find>mOneClassAdapter</find>
+      <find>originalRequest</find>
+      <find>serviceMethod</find>
+      <find>apply</find>
+      <find>methodAnnotations</find>
+      <find>loggingInterceptor</find>
+      <find>mDisposables</find>
+      <find>setOnMaybeSubscribe</find>
+      <find>adapt</find>
+      <find>subscribeActual</find>
+      <find>mHandler</find>
+      <find>schedulersTransformer</find>
+      <find>JSON</find>
+      <find>HomeActivity</find>
+      <find>mHomeclass_iv</find>
+      <find>rootView</find>
+      <find>anwserList</find>
+      <find>mUser_icon</find>
+      <find>fullScreen</find>
+      <find>img_user_icon</find>
+      <find>AppManager</find>
+      <find>AppBarLayout</find>
+      <find>recyclerview</find>
+      <find>R.color.app_bg</find>
+      <find>camera</find>
+      <find>REQUEST_CAMERA</find>
+      <find>mTmpFile</find>
+    </findStrings>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="D:\workspace\train_8\student\keystore\linktrust_train.jks" />
+    <option name="KEY_ALIAS" value="android" />
+    <option name="BUILD_TARGET_KEY" value="apk" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/shap_class_hour_stroke_ff6c6c.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/shap_class_hour_stroke_a2b4b4.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/shap_class_hour_stroke_51afff.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/item_remain_class_hour.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/cn/reebo/st
