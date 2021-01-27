@@ -9,6 +9,6 @@ import android.util.Log
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        Log.e(TAG,"这是我的第2次提交")
+        Log.e(TAG,"这是我的第1次提交")
     }
 }
