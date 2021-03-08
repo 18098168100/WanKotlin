@@ -36,4 +36,18 @@ import java.util.regex.Pattern
           val m: Matcher = p.matcher(str)
           return m.replaceAll("")
       }
+
+      /**
+       * 字符转匹配
+       *
+       * */
+      private fun countStr(fullText: String, clickText: String): Int {
+          var num = 0
+          val pattern: Pattern = Pattern.compile(clickText)
+          val findMatcher: Matcher = pattern.matcher(fullText)
+          while (findMatcher.find()){
+              num = findMatcher.start()
+          }
+          return num
+      }
 }
