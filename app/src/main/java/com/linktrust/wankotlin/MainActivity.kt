@@ -31,6 +31,11 @@ import java.util.regex.Pattern
           }
       }
 
+      /**
+       *
+       *
+       *
+       * */
       private fun replaceBlank2(str: String): String {
           val p: Pattern = Pattern.compile("\\s*|\t|\r|\n")
           val m: Matcher = p.matcher(str)
