@@ -15,7 +15,7 @@ import java.util.regex.Pattern
         var filePath = filesDir.absolutePath
         var file = File("$filePath/etc2")
         if(!file.exists()){
-            Log.e("haohai","000000000")
+            Log.e("haohai","000000")
             file.mkdirs()
         }else{
             Log.e("haohai","11111")
